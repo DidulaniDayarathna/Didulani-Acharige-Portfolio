@@ -1,11 +1,11 @@
-# Data Scientist
+# Data Scientist and a research scientist
 
-### Education
+## Education
 - Ph.D (Direct Ph.D) in Mechanical and Materials Engineering, Western University, London, Ontario Canada
 
 - BS.C honors in Engineering Physics, University of Colombo, Colombo, Sri Lanka
 
-### Work Experience
+## Work Experience
 - Post Graduate Research Assistant – Nanophotonic Energy Materials Lab, Western University, London, Ontario, Mechanical and Materials Engineering Department	
 
 - Research Assistant – Nanophotonic Energy Materials Lab, Western University, London, Ontario, Mechanical and Materials Engineering Department	 
