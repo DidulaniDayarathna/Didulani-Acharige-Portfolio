@@ -1,16 +1,17 @@
 # Data Scientist and a research scientist
 
 ## Education
-- Ph.D (Direct Ph.D) in Mechanical and Materials Engineering, Western University, London, Ontario Canada
+- Ph.D (Direct Ph.D) in Mechanical and Materials Engineering, Western University, London, Ontario Canada (October 2024)
 
-- BS.C honors in Engineering Physics, University of Colombo, Colombo, Sri Lanka
+- BS.C in Engineering Physics, University of Colombo, Colombo, Sri Lanka (July 2019)
 
 ## Work Experience
-- Post Graduate Research Assistant – Nanophotonic Energy Materials Lab, Western University, London, Ontario, Mechanical and Materials Engineering Department	
-
-- Research Assistant – Nanophotonic Energy Materials Lab, Western University, London, Ontario, Mechanical and Materials Engineering Department	 
-- Teaching Assistant - Western University, London, Ontario, Mechanical and Materials Engineering Department	
-- Crew member-  McDonald’s Restaurants of Canada Ltd. London, Ontario
+- Post Graduate Research Assistant – Nanophotonic Energy Materials Lab, Western University, London, Ontario, Mechanical and Materials Engineering Department
+  
+- Research Assistant – Western University, London, Ontario, Mechanical and Materials Engineering Department
+  
+- Teaching Assistant - Western University, London, Ontario, Mechanical and Materials Engineering Department
+  
 - Assistant Lecturer - University of Colombo, Sri Lanka, Department of Physics                                                   
 
 Thesis - "Deep learning for inverse design of nanophotonic structures"
