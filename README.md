@@ -12,7 +12,23 @@
   
 - Teaching Assistant - Western University, London, Ontario, Mechanical and Materials Engineering Department
   
-- Assistant Lecturer - University of Colombo, Sri Lanka, Department of Physics                                                   
+- Assistant Lecturer - University of Colombo, Sri Lanka, Department of Physics
+
+## Projects
+
+## Publications
+
+## Presentations and Talks
+
+## Honors and Awards
+- Western Graduate Research Scholarship, Western University, London, Ontario, Canada
+               				
+- MITAC Research Training Award, MITAC, Canada		           							         
+
+- Mahapola Higher Education Scholarship, Sri Lanka		           								
+
+
+
 
 Thesis - "Deep learning for inverse design of nanophotonic structures"
 Final Year Thesis - "Development of a combinatorial optical property measuring system for classification / Quantification of liquids utilizing machine learning techniques" 
