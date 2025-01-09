@@ -15,6 +15,8 @@
 - Assistant Lecturer - University of Colombo, Sri Lanka, Department of Physics
 
 ## Projects
+#### Designing and developing prototype of a mini drill press machine
+  - Designed and developed a prototype of a mini drill press machine by using AutoCAD and Solid work software. It was constructed to use as a PCB circuit board drill machine by acquiring workshop experience. Under this project, lathe machines, milling machines, drilling machine, saw machines, & other mechanical workshop tools were utilized for the implementation.
 
 ## Publications
 
